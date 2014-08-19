@@ -1,0 +1,15 @@
+﻿<Properties>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" PreferredExecutionTarget="Android.MonoForAndroid_API_10" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Phoneword_Droid\Properties\AndroidManifest.xml">
+    <Files>
+      <File FileName="Phoneword_Droid\PhoneTranslator.cs" Line="3" Column="3" />
+      <File FileName="Phoneword_Droid\MainActivity.cs" Line="31" Column="31" />
+      <File FileName="Phoneword_Droid\Properties\AndroidManifest.xml" Line="12" Column="12" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.ItemProperties.Phoneword__Droid MonoForAntroid.PreferredDevice="3.7&quot; WVGA (Nexus One)" AndroidDeviceId-Debug="192.168.56.101:5555" />
+</Properties>

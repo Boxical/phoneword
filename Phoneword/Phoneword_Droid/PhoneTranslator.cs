@@ -12,7 +12,7 @@ namespace Core
 			else
 				raw = raw.ToUpperInvariant ();
 		
-			EnvironmentVariableTarget newNumber = new StringBuilder ();
+			var newNumber = new StringBuilder ();
 			foreach (var c in raw) 
 			{
 				if (" -0123456789".Contains (c))
