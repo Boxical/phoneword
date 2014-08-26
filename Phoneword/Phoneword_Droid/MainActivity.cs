@@ -58,7 +58,8 @@ namespace Phoneword_Droid
 				callDialog.SetNeutralButton("Call", delegate {
 					// add dialed number to list of called numbers.
 					phoneNumbers.Add(translatedNumber);
-					//callHistoryButton.Enabled = true;
+					// enable the Call History Button
+					callHistoryButton.Enabled = true;
 
 					// Create intent to dial phone
 					var callIntent = new Intent(Intent.ActionCall);
